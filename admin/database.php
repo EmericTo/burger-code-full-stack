@@ -2,7 +2,7 @@
 
 class Database{
     private static $dbHost = "localhost";
-    private static $dbName = "burger code";
+    private static $dbName = "Burger Code";
     private static $dbUser = "root";
     private static $dbUserPassword = "";
 
